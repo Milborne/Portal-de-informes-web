@@ -4,6 +4,18 @@ Portal web para **publicar, consultar y gestionar informes ejecutivos** dirigido
 
 > Este repositorio es una **vitrina del proyecto**: describe qué hace la plataforma. No incluye el código fuente, los informes de clientes ni la configuración privada de la aplicación.
 
+## Demo pública y accesos de prueba
+
+Portal: [Nexo Gestión](https://nexo-portal-demo.netlify.app/)
+
+| Perfil | Correo | Contraseña |
+| --- | --- | --- |
+| Administrador demo | `admin-demo@example.com` | `Admin1` |
+| Cliente demo 1 | `cliente-demo-1@example.com` | `Prueba1` |
+| Cliente demo 2 | `cliente-demo-2@example.com` | `Prueba2` |
+
+Estas credenciales pertenecen a cuentas ficticias creadas únicamente para demostración.
+
 ---
 
 ## ¿Qué problema resuelve?
