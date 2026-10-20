@@ -1,4 +1,4 @@
-# Web de Informes
+# Portal de Informes Web
 
 Portal web para **publicar, consultar y gestionar informes ejecutivos** dirigidos a clientes internos y externos. Un administrador carga y publica los informes; cada cliente accede únicamente a los de sus propiedades, puede comentarlos de forma privada y llevar el control de lo que ya revisó.
 
