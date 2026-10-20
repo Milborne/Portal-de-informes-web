@@ -1,6 +1,6 @@
-# Web de Informes AMS
+# Web de Informes
 
-**Web de Informes AMS** es un portal para publicar y consultar informes dirigidos a clientes internos y externos.
+Portal web para publicar y consultar informes dirigidos a clientes internos y externos.
 
 ## ¿Qué permite?
 
