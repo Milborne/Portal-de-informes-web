@@ -80,12 +80,11 @@ Versión **beta**, en uso y en evolución continua. Las funcionalidades descrita
 
 ## Vista de muestra
 
-*Próximamente: capturas de pantalla de la vista del cliente y del panel administrativo, con datos de ejemplo.*
-
-<!-- Cuando tengas capturas, guárdalas en una carpeta /docs y agrégalas así:
 ![Panel administrativo](docs/panel-admin.png)
+![Gestión de usuarios](docs/usuarios-admin.png)
 ![Vista del cliente](docs/vista-cliente.png)
--->
+![Inicio de sesión](docs/login.png)
+![Detalle del informe de ejemplo](docs/detalle-informe.png)
 
 ---
 
